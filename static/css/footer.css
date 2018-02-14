@@ -1,0 +1,25 @@
+/* Format footer container */
+#override-bs-footer .g-footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    /*background-color: #efefef;*/
+    text-align: center;
+}
+
+/* Style icons */
+#override-bs-footer .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+/* Add a hover effect */
+#override-bs-footer .fa:hover {
+    opacity: 0.7;
+    text-decoration: none;
+{
